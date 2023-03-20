@@ -2,7 +2,9 @@
 
 ... that I use when I'm doing QA.
 
-Motivation: Instead of having to explain the same concepts all the time, I want to refer to them here. 
+Motivation: Instead of having to explain the same concepts all the time, I want to refer to them here.
+
+**Note:** This is my subjective opinion, but I'm always open for discussion on any of these points.
 
 ## Reduce complexity / K.I.S.S
 
