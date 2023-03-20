@@ -4,7 +4,7 @@
 
 Motivation: Instead of having to explain the same concepts all the time, I want to refer to them here.
 
-**Note:** This is my subjective opinion, but I'm always open for discussion on any of these points.
+**Note:** The principles below reflect my subjective opinion, but I'm always open for discussion on any of these points.
 
 ## Reduce complexity / K.I.S.S
 
