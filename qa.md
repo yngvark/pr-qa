@@ -6,6 +6,8 @@ Motivation: Instead of having to explain the same concepts all the time, I want 
 
 **Note:** The principles below reflect my subjective opinion, but I'm always open for discussion on any of these points.
 
+See also: [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
+
 ## Reduce complexity / K.I.S.S
 
 Someone else is going to maintain what you create. Make it easy for them.
