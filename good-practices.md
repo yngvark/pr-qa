@@ -8,5 +8,6 @@ Source: https://www.reddit.com/r/devops/comments/sxpkni/comment/hxtir49/?utm_sou
 
 https://www.thoughtworks.com/insights/blog/enabling-trunk-based-development-deployment-pipelines
 
+# Other
 
-
+https://architecture-antipatterns.tech/ ([Discussion Hacker news](https://news.ycombinator.com/item?id=38457889)https://news.ycombinator.com/item?id=38457889)
