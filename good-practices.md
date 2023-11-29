@@ -10,4 +10,4 @@ https://www.thoughtworks.com/insights/blog/enabling-trunk-based-development-depl
 
 # Other
 
-https://architecture-antipatterns.tech/ ([Discussion Hacker news](https://news.ycombinator.com/item?id=38457889)https://news.ycombinator.com/item?id=38457889)
+https://architecture-antipatterns.tech/ ([Discussion Hacker news](https://news.ycombinator.com/item?id=38457889))
